@@ -1,0 +1,15 @@
+/Users/antonmalahov/Desktop/C#1/Hello_Console/bin/Debug/net6.0/Hello_Console
+/Users/antonmalahov/Desktop/C#1/Hello_Console/bin/Debug/net6.0/Hello_Console.deps.json
+/Users/antonmalahov/Desktop/C#1/Hello_Console/bin/Debug/net6.0/Hello_Console.runtimeconfig.json
+/Users/antonmalahov/Desktop/C#1/Hello_Console/bin/Debug/net6.0/Hello_Console.dll
+/Users/antonmalahov/Desktop/C#1/Hello_Console/bin/Debug/net6.0/Hello_Console.pdb
+/Users/antonmalahov/Desktop/C#1/Hello_Console/obj/Debug/net6.0/Hello_Console.csproj.AssemblyReference.cache
+/Users/antonmalahov/Desktop/C#1/Hello_Console/obj/Debug/net6.0/Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonmalahov/Desktop/C#1/Hello_Console/obj/Debug/net6.0/Hello_Console.AssemblyInfoInputs.cache
+/Users/antonmalahov/Desktop/C#1/Hello_Console/obj/Debug/net6.0/Hello_Console.AssemblyInfo.cs
+/Users/antonmalahov/Desktop/C#1/Hello_Console/obj/Debug/net6.0/Hello_Console.csproj.CoreCompileInputs.cache
+/Users/antonmalahov/Desktop/C#1/Hello_Console/obj/Debug/net6.0/Hello_Console.dll
+/Users/antonmalahov/Desktop/C#1/Hello_Console/obj/Debug/net6.0/refint/Hello_Console.dll
+/Users/antonmalahov/Desktop/C#1/Hello_Console/obj/Debug/net6.0/Hello_Console.pdb
+/Users/antonmalahov/Desktop/C#1/Hello_Console/obj/Debug/net6.0/Hello_Console.genruntimeconfig.cache
+/Users/antonmalahov/Desktop/C#1/Hello_Console/obj/Debug/net6.0/ref/Hello_Console.dll
